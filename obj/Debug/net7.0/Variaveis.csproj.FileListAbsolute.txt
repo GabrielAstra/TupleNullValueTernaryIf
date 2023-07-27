@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/VSProjects/Variaveis/bin/Debug/net7.0/Variaveis
+/home/gabriel/Desktop/VSProjects/Variaveis/bin/Debug/net7.0/Variaveis.deps.json
+/home/gabriel/Desktop/VSProjects/Variaveis/bin/Debug/net7.0/Variaveis.runtimeconfig.json
+/home/gabriel/Desktop/VSProjects/Variaveis/bin/Debug/net7.0/Variaveis.dll
+/home/gabriel/Desktop/VSProjects/Variaveis/bin/Debug/net7.0/Variaveis.pdb
+/home/gabriel/Desktop/VSProjects/Variaveis/obj/Debug/net7.0/Variaveis.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/VSProjects/Variaveis/obj/Debug/net7.0/Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/VSProjects/Variaveis/obj/Debug/net7.0/Variaveis.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/VSProjects/Variaveis/obj/Debug/net7.0/Variaveis.AssemblyInfo.cs
+/home/gabriel/Desktop/VSProjects/Variaveis/obj/Debug/net7.0/Variaveis.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/VSProjects/Variaveis/obj/Debug/net7.0/Variaveis.dll
+/home/gabriel/Desktop/VSProjects/Variaveis/obj/Debug/net7.0/refint/Variaveis.dll
+/home/gabriel/Desktop/VSProjects/Variaveis/obj/Debug/net7.0/Variaveis.pdb
+/home/gabriel/Desktop/VSProjects/Variaveis/obj/Debug/net7.0/Variaveis.genruntimeconfig.cache
+/home/gabriel/Desktop/VSProjects/Variaveis/obj/Debug/net7.0/ref/Variaveis.dll
